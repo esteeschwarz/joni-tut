@@ -1,7 +1,8 @@
 # 15461.info
 #### basic codings
 ----
-## heading 1
+## heading 1 
+(das war heading stufe 1, also oberste. wird dann mit der gröszten schriftart gerendert und dem gröszten abstand zum folgenden paragraph, also diesem)   
 du siehst, das ist ein ganz einfaches markdown dokument, das von github sofort "gerendert" wird, so dasz die überschriften und listen, zb.   
 ### liste 1 (das ist heading stufe 3)
 - punkt 1
